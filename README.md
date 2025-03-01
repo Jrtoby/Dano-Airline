@@ -1,5 +1,5 @@
 # Airline Satisfaction Report
-![](intro_image.JPG)
+![](intro_image.jpg)
 
 # Data Source
 Capstone project at **Digitaley Drive**.
@@ -51,7 +51,7 @@ Majority of flights are business-related, Leisure travel forms a smaller portion
 
 # Visualiosation
 
-![](Dano_dashboard.PNG)
+![](Dano_dashboard.png)
 
 **Key Insights from Services (Based on Average Values)**:
 
